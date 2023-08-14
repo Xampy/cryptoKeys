@@ -14,7 +14,7 @@
             "id": "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1",
             "type": "Ed25519VerificationKey2020",
             "controller": "did:web:raw.github.com:Xampy:cryptoKeys:main:atd",
-            "publicKeyMultibase": "FeBRforZu2XVAMmEdNhm6fUiHFQkRJcoehifAMNGKU46"
+            "publicKeyMultibase": "zFeBRforZu2XVAMmEdNhm6fUiHFQkRJcoehifAMNGKU46"
         }
     ],
     "authentication": [
