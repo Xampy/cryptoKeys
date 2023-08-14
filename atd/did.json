@@ -3,7 +3,7 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/ed25519-2020/v1"
     ],
-    "id": "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd",
+    "id": "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd",
     "type": "Ed25519VerificationKey2020",
     "verificationMethod": [
         {
@@ -11,22 +11,22 @@
                 "https://www.w3.org/ns/did/v1",
                 "https://w3id.org/security/suites/ed25519-2020/v1"
             ],
-            "id": "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd#EDDSAKEY172a17a0a1",
+            "id": "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1",
             "type": "Ed25519VerificationKey2020",
-            "controller": "did:web:raw.github.com:Xampy:cryptoKeys:blob:main:atd",
+            "controller": "did:web:raw.github.com:Xampy:cryptoKeys:main:atd",
             "publicKeyMultibase": "zFeBRforZu2XVAMmEdNhm6fUiHFQkRJcoehifAMNGKU46"
         }
     ],
     "authentication": [
-        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd#EDDSAKEY172a17a0a1"
+        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1"
     ],
     "assertionMethod": [
-        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd#EDDSAKEY172a17a0a1"
+        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1"
     ],
     "capabilityDelegation": [
-        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd#EDDSAKEY172a17a0a1"
+        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1"
     ],
     "capabilityInvocation": [
-        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:blob:main:atd#EDDSAKEY172a17a0a1"
+        "did:web:raw.githubusercontent.com:Xampy:cryptoKeys:main:atd#EDDSAKEY172a17a0a1"
     ]
 }
